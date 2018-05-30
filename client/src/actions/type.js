@@ -1,0 +1,4 @@
+
+
+export const POST_A_FILE = 'POST_A_FILE'
+export const POST_A_FILE_FUFILLED = 'POST_A_FILE_FUFILLED'

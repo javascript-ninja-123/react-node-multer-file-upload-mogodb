@@ -1,0 +1,6 @@
+node_moudles/
+
+.DS_Store
+
+secret
+secret.js
